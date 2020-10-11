@@ -1,0 +1,16 @@
+#container {
+  height: 400px;
+  width: 400px;
+  background-color: rebeccapurple;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+#player {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+}
